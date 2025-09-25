@@ -1,7 +1,7 @@
 {
   "scripts": {
     "A-PedSleep": 1.0,
-    "A-crashLogger": 1.1
+    "A-crashLogger": 1.1.0
   },
   "DreamWorld": {
     "ui": 1.0
